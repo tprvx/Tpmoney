@@ -1,0 +1,4 @@
+node_modules
+/demo
+/package-lock.json
+/ejs/partials/styles/font-awesome
